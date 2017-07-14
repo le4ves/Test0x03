@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Cool, you got it!");
-	return 0;
+    printf("Cool, you got it!");
+    return 0;
 }
