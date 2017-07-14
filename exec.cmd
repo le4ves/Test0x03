@@ -1,1 +1,1 @@
-vcvarsall.bat & msbuild test0x03.sln /t:rebuild /p:configuration=release
+vcvarsall.bat & msbuild test0x03.sln /t:rebuild /p:configuration=release & cd x64\release
